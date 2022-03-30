@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Sergio Pegueros Blog`,
+    title: `Sergio Pegueros News`,
     author: {
       name: `Sergio Pegueros`,
       // summary: `who lives and works in San Francisco building useful things.`,
@@ -121,7 +121,7 @@ module.exports = {
         // https://css-tricks.com/meta-theme-color-and-trickery/
         // theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `src/images/sergio-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-react-helmet`,
